@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31ec4d80.chunk.css",
+    "main.js": "/static/js/main.5ae3f5dd.chunk.js",
+    "main.js.map": "/static/js/main.5ae3f5dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19c22d0f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19c22d0f.js.map",
+    "static/js/2.c62e4d06.chunk.js": "/static/js/2.c62e4d06.chunk.js",
+    "static/js/2.c62e4d06.chunk.js.map": "/static/js/2.c62e4d06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7c5ad7af3a46c85c8e7b937fb60e1616.js": "/precache-manifest.7c5ad7af3a46c85c8e7b937fb60e1616.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.31ec4d80.chunk.css.map": "/static/css/main.31ec4d80.chunk.css.map",
+    "static/js/2.c62e4d06.chunk.js.LICENSE": "/static/js/2.c62e4d06.chunk.js.LICENSE",
+    "static/media/csharp.png": "/static/media/csharp.247608fc.png",
+    "static/media/django.png": "/static/media/django.c20f8b24.png",
+    "static/media/html.jpeg": "/static/media/html.a5a2360f.jpeg",
+    "static/media/java.png": "/static/media/java.1af1300b.png",
+    "static/media/laravel.png": "/static/media/laravel.b52a3077.png",
+    "static/media/mobi.PNG": "/static/media/mobi.3c83d809.PNG",
+    "static/media/react.png": "/static/media/react.d0fe58ef.png",
+    "static/media/sql.png": "/static/media/sql.9ab64f87.png",
+    "static/media/vince.jpg": "/static/media/vince.b806b259.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c22d0f.js",
+    "static/js/2.c62e4d06.chunk.js",
+    "static/css/main.31ec4d80.chunk.css",
+    "static/js/main.5ae3f5dd.chunk.js"
+  ]
+}
